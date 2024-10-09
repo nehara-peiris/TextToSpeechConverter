@@ -70,4 +70,3 @@ Output: Spoken audio of the input sentence.
 
 ## Hope you find this easy...
 
-# TextToSpeechConverter
